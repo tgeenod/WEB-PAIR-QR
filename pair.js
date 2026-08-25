@@ -14,7 +14,13 @@ const MAX_RECONNECT_ATTEMPTS = 3;
 const SESSION_TIMEOUT = 5 * 60 * 1000;
 const CLEANUP_DELAY = 5000;
 
-const MESSAGE = `...`; // your message
+const MESSAGE = `
+*SESSION GENERATED SUCCESSFULLY* ✅
+
+*Sᴜᴘᴘᴏʀᴛ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
+https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e
+
+*DARK-KNIGHT-XMD WHATSAPP-BOT* 🌟`; // your message
 
 async function removeFile(FilePath) {
     try {
