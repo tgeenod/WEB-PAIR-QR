@@ -15,17 +15,10 @@ const SESSION_TIMEOUT = 60000;
 const MESSAGE = `
 *SESSION GENERATED SUCCESSFULLY* ✅
 
-*Gɪᴠᴇ ᴀ ꜱᴛᴀʀ ᴛᴏ ʀᴇᴘᴏ ꜰᴏʀ ᴄᴏᴜʀᴀɢᴇ* 🌟
-https://github.com/GlobalTechInfo/MEGA-MD
+*Sᴜᴘᴘᴏʀᴛ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
+https://whatsapp.com/channel/0029VbAM4eo3AzNQZ1WleW3e
 
-*Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ ꜰᴏʀ ϙᴜᴇʀʏ* 💭
-https://t.me/Global_TechInfo
-https://whatsapp.com/channel/0029VagJIAr3bbVBCpEkAM07
-
-*Yᴏᴜ-ᴛᴜʙᴇ ᴛᴜᴛᴏʀɪᴀʟꜱ* 🪄 
-https://youtube.com/@GlobalTechInfo
-
-*MEGA-MD--WHATSAPP* 🥀
+*DARK-KNIGHT-XMD WHATSAPP-BOT* 🌟
 `;
 
 async function removeFile(FilePath) {
